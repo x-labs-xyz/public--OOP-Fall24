@@ -1,5 +1,5 @@
 # Object-oriented Programming Course
-This repository contains lecture materials for the ENGR-UH 2510 Object-oriented Programming (OOP) course taught at NYUAD in Spring 2023.
+This repository contains lecture materials for the ENGR-UH 2510 Object-oriented Programming (OOP) course taught at NYUAD in Spring 2024.
 
 ## Week 1
 
